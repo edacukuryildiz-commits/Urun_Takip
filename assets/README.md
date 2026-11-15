@@ -25,7 +25,10 @@ Bu proje, PHP tabanlı dinamik bir kayıt ve takip sistemi oluşturmak amacıyla
 ## Yapay Zekâ Kullanımı
 - **Araç:** Gemini
 - **Kullanım Amacı:** Kod yapısının organize edilmesi, `$_SESSION` tabanlı veri saklama mantığı ve form doğrulama fonksiyonlarının yazılması
--
+konusunda rehberlik alındı.
+
+**Öğrencinin Katkısı:** Kategori seçenekleri, CSS arayüz tasarımı ve projenin klasör yapısı kişiselleştirildi.
+
 **Ekran Görüntüleri**
 <img width="1896" height="1017" alt="ana giriş 1" src="https://github.com/user-attachments/assets/4beaa172-6df0-42f7-83bb-f6b7296e5d20" />
 <img width="1917" height="1017" alt="Ürün ekleme 2" src="https://github.com/user-attachments/assets/2334f0d3-a333-4281-9227-7094b99ac226" />
@@ -33,5 +36,4 @@ Bu proje, PHP tabanlı dinamik bir kayıt ve takip sistemi oluşturmak amacıyla
 <img width="1917" height="1022" alt="Ürün eksik kaydetmek 4" src="https://github.com/user-attachments/assets/d3029a71-105e-4fd2-b178-ab93b057fe3f" />
 <img width="1917" height="1015" alt="Sil kod php" src="https://github.com/user-attachments/assets/dcd662fa-6c98-4469-80f5-608b0834dec5" />
 
-konusunda rehberlik alındı.
-- **Öğrencinin Katkısı:** Kategori seçenekleri, CSS arayüz tasarımı ve projenin klasör yapısı kişiselleştirildi.
+
